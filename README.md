@@ -2,8 +2,6 @@
 
 A  robotics simulation demonstrating the Kinova Gen3 7-DOF arm performing a 3-phase sphere pushing task using Differential Inverse Kinematics in NVIDIA Isaac Lab.
 
-## Demo
-
 ## Task Description
 
 The robot executes a 3-phase manipulation task:
